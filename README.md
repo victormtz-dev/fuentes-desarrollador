@@ -1,4 +1,8 @@
-# fuentes-desarrollador
+#  Hola, Soy Victor 👋
+Y me he dado a la tarea de recolectar todas esas fuentes que nos serviran para el desarollo de alguna aplicacion y que hoy en dia es util.
+Espero te sea util, suerte ❤👌
+
+#Fuentes para desarrolladores y programadores
 Links, Libros, PDF y fuentes para el desarollo 
 
 ## Canales de Youtube
