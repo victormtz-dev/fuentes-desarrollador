@@ -24,15 +24,15 @@ Espero te sea util, suerte ❤👌
   
 ## CSS
 
-    [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-    [👆 Regresar al inicio de css 👆](#css)
+   [👆 Regresar al inicio de css 👆](#css)
 
 ## JAVASCRIPT
 
-    [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-    [👆 Regresar al inicio de javascript 👆](#javascript)
+   [👆 Regresar al inicio de javascript 👆](#javascript)
   
 ## GIT
 
