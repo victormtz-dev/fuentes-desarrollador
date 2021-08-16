@@ -5,6 +5,8 @@ Espero te sea util, suerte ❤👌
 #  Fuentes para desarrolladores y programadores
 Links, Libros, PDF y fuentes para el desarollo 
 
+## Contenido
+
 ## Canales de Youtube
 
  - [Absolute](https://www.youtube.com/c/AbsoluteSite/videos) //tal vez 
@@ -103,4 +105,5 @@ Links, Libros, PDF y fuentes para el desarollo
  - [Wmedia: desarrollo Web moderno y productivo](https://www.youtube.com/channel/UCF6G2sF4DKlWvgfEGcm50FQ)
 - [YouDevs](https://www.youtube.com/channel/UC4hHrYhWMy-iN29_3bJ7zfA)
 
-  
+  [👆 Regresar a tabla de contenido](#Contenido)
+  [👆 Regresar al inicio de los canales](#Canales de Youtube)
