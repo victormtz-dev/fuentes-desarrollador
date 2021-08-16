@@ -1,11 +1,55 @@
-#  Hola, Soy Victor 👋
-Y me he dado a la tarea de recolectar todas esas fuentes que nos serviran para el desarollo de alguna aplicacion y que hoy en dia es util.
+#  Fuentes para desarrolladores y programadores
+Me he dado a la tarea de recolectar todas esas fuentes que nos serviran para el desarollo de alguna aplicacion y que hoy en dia es util.
 Espero te sea util, suerte ❤👌
 
-#  Fuentes para desarrolladores y programadores
-Links, Libros, PDF y fuentes para el desarollo 
-
 ## Contenido
+
+1. [**HTML**](#html)
+2. [**CSS**](#css)
+3. [**JAVASCRIPT**](#javascript)
+4. [**GIT**](#git)
+5. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
+6. [**HERRAMIENTAS**](#herramientas)
+7. [**CANALES DE YOTUBE**](#canales-de-youtube)
+8. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
+
+## HTML
+
+- [HTML Reference](https://htmlreference.io/)
+
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de html 👆](#html)
+  
+## CSS
+
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de css 👆](#css)
+
+## JAVASCRIPT
+
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de javascript 👆](#javascript)
+  
+## GIT
+
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de javascript 👆](#git)
+  
+## PLATAFORMAS DE CURSOS
+
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de javascript 👆](#plataformas-de-cursos)
+
+## HERRAMIENTAS
+
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de herramientas 👆](#herramientas)
 
 ## Canales de Youtube
 
@@ -103,8 +147,14 @@ Links, Libros, PDF y fuentes para el desarollo
  - [Web Dev](https://www.youtube.com/channel/UCwjGnSW_aIzuqxCmwPWggNA)
  - [WEBartisan](https://www.youtube.com/channel/UC6UBYPOXci0jij5qesthPLQ)
  - [Wmedia: desarrollo Web moderno y productivo](https://www.youtube.com/channel/UCF6G2sF4DKlWvgfEGcm50FQ)
-- [YouDevs](https://www.youtube.com/channel/UC4hHrYhWMy-iN29_3bJ7zfA)
+ - [YouDevs](https://www.youtube.com/channel/UC4hHrYhWMy-iN29_3bJ7zfA)
 
-  [👆 Regresar a tabla de contenido](#Contenido)
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de los canales](#Canales-de-Youtube)
+  [👆 Regresar al inicio de los canales 👆](#Canales-de-Youtube)
+  
+  ## LIBROS Y PDF´S
+  
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de los libros 👆](#libros-y-pdf´s)
