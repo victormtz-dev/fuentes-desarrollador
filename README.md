@@ -10,28 +10,29 @@ Espero te sea util, suerte ❤👌
 4. [**GIT**](#git)
 5. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
 6. [**HERRAMIENTAS**](#herramientas)
-7. [**CANALES DE YOTUBE**](#canales-de-youtube)
+7. [**CANALES DE YOUTUBE**](#canales-de-youtube)
 8. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
 
 ## HTML
 
 - [HTML Reference](https://htmlreference.io/)
 
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+
+    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de html 👆](#html)
+    [👆 Regresar al inicio de html 👆](#html)
   
 ## CSS
 
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de css 👆](#css)
+    [👆 Regresar al inicio de css 👆](#css)
 
 ## JAVASCRIPT
 
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de javascript 👆](#javascript)
+    [👆 Regresar al inicio de javascript 👆](#javascript)
   
 ## GIT
 
@@ -51,7 +52,7 @@ Espero te sea util, suerte ❤👌
   
   [👆 Regresar al inicio de herramientas 👆](#herramientas)
 
-## Canales de Youtube
+## CANALES DE YOUTUBE
 
  - [Absolute](https://www.youtube.com/c/AbsoluteSite/videos) //tal vez 
  - [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/videos)
