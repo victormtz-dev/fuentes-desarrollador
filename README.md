@@ -85,6 +85,7 @@ Espero te sea util, suerte ❤👌
  - [DesarrolloWeb.com](https://www.youtube.com/user/desarrollowebcom)
  - [David Guevara](https://www.youtube.com/c/DavidGuevara01/videos)
  - [Develoteca](https://www.youtube.com/c/Develoteca/videos)
+ - [Dorian Desings](https://www.youtube.com/channel/UCzuwt7Pi_VB8cP5q5UE4u-A)
  - [EDteam](https://www.youtube.com/user/escueladigitalperu)
  - [El Inge Francisco](https://www.youtube.com/user/fteranp) //excell
  - [El profe García](https://www.youtube.com/c/ElProfeGarcia/videos) //robotica
