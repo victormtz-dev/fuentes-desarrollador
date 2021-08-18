@@ -103,9 +103,9 @@ Espero te sea util, suerte ❤👌
 
  - [Book Git](https://git-scm.com/book/en/v2)
  
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de git 👆](#git)
+   [👆 Regresar al inicio de git 👆](#git)
   
   
 ## IMAGENES / SVG / ICONOS
@@ -121,9 +121,9 @@ Espero te sea util, suerte ❤👌
  - [Shape](https://shape.so/)
  - [Story Set](https://storyset.com/)
  
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de git 👆](#imagenes-svg-icons)
+   [👆 Regresar al inicio de git 👆](#imagenes-svg-icons)
   
   
 ## PLATAFORMAS DE CURSOS
@@ -144,15 +144,15 @@ Espero te sea util, suerte ❤👌
  - [Code](https://code.org/)
  - [Code Combat](https://codecombat.com/)
 
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de las plataformas de cursos 👆](#plataformas-de-cursos)
+   [👆 Regresar al inicio de las plataformas de cursos 👆](#plataformas-de-cursos)
 
 ## HERRAMIENTAS
 
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de herramientas 👆](#herramientas)
+   [👆 Regresar al inicio de herramientas 👆](#herramientas)
 
 ## CANALES DE YOUTUBE
 
@@ -253,18 +253,18 @@ Espero te sea util, suerte ❤👌
  - [Wmedia: desarrollo Web moderno y productivo](https://www.youtube.com/channel/UCF6G2sF4DKlWvgfEGcm50FQ)
  - [YouDevs](https://www.youtube.com/channel/UC4hHrYhWMy-iN29_3bJ7zfA)
 
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de los canales 👆](#Canales-de-Youtube)
+   [👆 Regresar al inicio de los canales 👆](#Canales-de-Youtube)
   
   
   ## PLATAFORMAS PARA PRACTICAR PROGRAMACION
   
   - [omegaUp](https://omegaup.com/)
+   
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-  [👆 Regresar al inicio de los libros 👆](#plataformas-para-practicar-programacion)
+   [👆 Regresar al inicio de los libros 👆](#plataformas-para-practicar-programacion)
   
   
   ## LIBROS Y PDF´S
@@ -275,9 +275,9 @@ Espero te sea util, suerte ❤👌
   - [Libros que debes leer](https://drive.google.com/drive/folders/1WNEZWqUtlVRNNw84cj8hE7eMhtXKXa_a)
   - [+Libros de programación](https://drive.google.com/drive/folders/16DLTrhmIdgvzU_aQsp1skHJgcmQRifYL)
   
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de los libros 👆](#libros-y-pdf´s)
+   [👆 Regresar al inicio de los libros 👆](#libros-y-pdf´s)
   
   
   ## ARTICULOS
@@ -316,6 +316,6 @@ Espero te sea util, suerte ❤👌
   - [AWS vs Azure vs GCP: todos los servicios cloud frente a frente.](https://www.paradigmadigital.com/dev/comparativa-servicios-cloud-aws-azure-gcp/)
   - [Donde almacenar mi sitio web](https://medium.com/tecnologia-digital/donde-almacenar-mi-sitio-web-f25a16ee4650)
   
-  [👆 Regresar a tabla de contenido 👆](#Contenido)
+   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de los articulos 👆](#articulos)
+   [👆 Regresar al inicio de los articulos 👆](#articulos)
