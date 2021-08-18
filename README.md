@@ -8,7 +8,7 @@ Espero te sea util, suerte ❤👌
 2. [**CSS**](#css)
 3. [**JAVASCRIPT**](#javascript)
 4. [**GIT**](#git)
-5. [**IMAGENES / SVG / ICONOS**](#imagenes-svg-icons)
+5. [**IMAGENES, SVG, ICONOS**](#imagenes,-svg,-iconos)
 6. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
 7. [**HERRAMIENTAS**](#herramientas)
 8. [**CANALES DE YOUTUBE**](#canales-de-youtube)
@@ -108,7 +108,7 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar al inicio de git 👆](#git)
   
   
-## IMAGENES / SVG / ICONOS
+## IMAGENES, SVG, ICONOS
 
  - [Pixabay](https://pixabay.com/es/)
  - [Freepick](https://www.freepik.es/)
