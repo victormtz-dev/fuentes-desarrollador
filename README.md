@@ -8,21 +8,54 @@ Espero te sea util, suerte ❤👌
 2. [**CSS**](#css)
 3. [**JAVASCRIPT**](#javascript)
 4. [**GIT**](#git)
-5. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
-6. [**HERRAMIENTAS**](#herramientas)
-7. [**CANALES DE YOUTUBE**](#canales-de-youtube)
-8. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
+5. [**IMAGENES / SVG / ICONOS**](#imagenes-svg-icons)
+6. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
+7. [**HERRAMIENTAS**](#herramientas)
+8. [**CANALES DE YOUTUBE**](#canales-de-youtube)
+9. [**PLATAFORMAS PARA PRACTICAR PROGRAMACION**](#plataformas-para-practicar-programacion)
+10. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
+11. [**ARTICULOS**](#articulos)
 
 ## HTML
 
 - [HTML Reference](https://htmlreference.io/)
-
 
     [👆 Regresar a tabla de contenido 👆](#Contenido)
   
     [👆 Regresar al inicio de html 👆](#html)
   
 ## CSS
+
+### Guias / Documentacion
+
+ - [CSS Reference](https://cssreference.io/)
+ - [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+ - [Modelo de caja](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
+ - [Responsive design](https://web.dev/responsive-web-design-basics/)
+ - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/display-listitem)
+
+### Reset
+
+ - [Normalize](https://necolas.github.io/normalize.css/)
+ - [CSS Tools](https://meyerweb.com/eric/tools/css/reset/)
+
+### Herramientas de apoyo
+
+ - [Flexbox Froggy](https://flexboxfroggy.com/#es)
+ - [WebGradients](https://webgradients.com/)
+ - [CSS matic](https://www.cssmatic.com/)
+ - [Hero Patterns](https://www.heropatterns.com/)
+ - [CSS Gradient](https://cssgradient.io/)
+ - [Neumorphism](https://neumorphism.io/)
+ - [extractCSS](http://extractcss.com/)
+ - [Pixel Art To CSS](https://www.pixelartcss.com/)
+ - [CSS Effects](https://awesomeindie.com/product/css-effects)
+
+### Librerias
+
+ -[Skeleton](http://skeleton-css.surge.sh/)
+ -[Animate](https://animate.style/)
+
 
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -38,12 +71,11 @@ Espero te sea util, suerte ❤👌
  - [Glide.js](https://glidejs.com/)
  - [AOS](https://michalsnik.github.io/aos/)
 
-### Libro
+### Libros
 
   - [Eloquent JavaScript](https://eloquentjavascript.net/00_intro.html)
 
-
-### Herramientas
+### Herramientas de apoyo
 
  - [SVGR](https://react-svgr.com/playground/)
  - [Tabla de comparacion en JS](https://dorey.github.io/JavaScript-Equality-Table/)
@@ -56,15 +88,65 @@ Espero te sea util, suerte ❤👌
   
 ## GIT
 
+### Curso
+
+ -[Introducción a Git](https://https-bedu-org.gitbook.io/introduccion-a-git/)
+ 
+### Herramientas de apoyo
+ 
+ - [¿Cómo instalar git?](https://medium.com/laboratoria-how-to/c%C3%B3mo-instalar-git-368c78187b51)
+ - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+ - [Dangit, Git!?!](https://dangitgit.com/)
+ - [Oh Shit, Git!?!](https://ohshitgit.com/)
+
+### Libro
+
+ - [Book Git](https://git-scm.com/book/en/v2)
+ 
   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de javascript 👆](#git)
+  [👆 Regresar al inicio de git 👆](#git)
+  
+  
+## IMAGENES / SVG / ICONOS
+
+ - [Pixabay](https://pixabay.com/es/)
+ - [Freepick](https://www.freepik.es/)
+ - [unDraw](https://undraw.co/illustrations)
+ - [Pexels](https://www.pexels.com/es-es/)
+ - [Iconos8](https://iconos8.es/)
+ - [Picsum](https://picsum.photos/)
+ - [Font Awesome](https://fontawesome.com/)
+ - [SVGPORN](https://svgporn.com/)
+ - [Shape](https://shape.so/)
+ - [Story Set](https://storyset.com/)
+ 
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de git 👆](#imagenes-svg-icons)
+  
   
 ## PLATAFORMAS DE CURSOS
 
+ - [Coderbyte](https://coderbyte.com/sl)
+ - [IBM Academic Initiative](https://www.ibm.com/academic/home)
+ - [Cisco](https://www.netacad.com/es)
+ - [Aprendo+](https://aprendomas.cuaed.unam.mx/)
+ - [Coursera](https://www.coursera.org/)
+ - [Google Academic / Google Garage Digital](https://learndigital.withgoogle.com/garagedigital)
+ - [Udemy](https://www.udemy.com/)
+ - [Aprende - Fundación Carlos Slim](https://aprende.org/)
+ - [edX](https://www.edx.org/es)
+ - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+ - [Capacitate para el empleo - Fundación Carlos Slim](https://capacitateparaelempleo.org/)
+ - [SCRUM study](https://www.scrumstudy.com/)
+ - [Opporunity - Linkedin](https://opportunity.linkedin.com/es-es/skills-for-in-demand-jobs)
+ - [Code](https://code.org/)
+ - [Code Combat](https://codecombat.com/)
+
   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  [👆 Regresar al inicio de javascript 👆](#plataformas-de-cursos)
+  [👆 Regresar al inicio de las plataformas de cursos 👆](#plataformas-de-cursos)
 
 ## HERRAMIENTAS
 
@@ -175,8 +257,65 @@ Espero te sea util, suerte ❤👌
   
   [👆 Regresar al inicio de los canales 👆](#Canales-de-Youtube)
   
+  
+  ## PLATAFORMAS PARA PRACTICAR PROGRAMACION
+  
+  - [omegaUp](https://omegaup.com/)
+  
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de los libros 👆](#plataformas-para-practicar-programacion)
+  
+  
   ## LIBROS Y PDF´S
+  
+  - [No me hagas pensar](http://producciondigitalup.com/articulos/no-me-hagas-pensar.pdf)
+  - [Libros de programacion](https://drive.google.com/drive/u/0/folders/1a5_7wWszlllygsePKt577GZnUePpHN9c?fbclid=IwAR1WCM7WLj-UKVtMVSUuRf3Ns3_-6Cl2gPfEjzPqDHnngaFTOB4PlGKwiow)
+  - [Desarrollo de API´S con NodeJS](https://onedrive.live.com/?authkey=%21ANN5sCPzvys1a2Q&cid=CD54330C3D58618D&id=CD54330C3D58618D%2111837&parId=CD54330C3D58618D%2111108&o=OneUp)
+  - [Libros que debes leer](https://drive.google.com/drive/folders/1WNEZWqUtlVRNNw84cj8hE7eMhtXKXa_a)
+  - [+Libros de programación](https://drive.google.com/drive/folders/16DLTrhmIdgvzU_aQsp1skHJgcmQRifYL)
   
   [👆 Regresar a tabla de contenido 👆](#Contenido)
   
   [👆 Regresar al inicio de los libros 👆](#libros-y-pdf´s)
+  
+  
+  ## ARTICULOS
+
+   ### FrontEnd
+  
+  - [¿Qué es un Front-end Developer?](https://medium.com/@ivandevp/92659a91434f?source=login-------------------------------------)
+  - [¿QUÉ ES UNA MEDIA QUERY?](https://desafiohosting.com/que-es-una-media-query/)
+  - [CSS Media Queries](https://css-tricks.com/css-media-queries/)
+  
+  ### BackEnd
+  
+  - [Montar servidor FTP en Linux](https://medium.com/@oscarricardosan/montar-servidor-ftp-en-linux-37accc96571f)
+  - [API REST: qué es y cuáles son sus ventajas en el desarrollo de proyectos](https://www.bbvaapimarket.com/es/mundo-api/api-rest-que-es-y-cuales-son-sus-ventajas-en-el-desarrollo-de-proyectos/)
+  - [Entendiendo qué son las Cookies y Sessions](https://programacionymas.com/blog/cookies-y-sesiones)
+  - [¿Cómo configurar sesiones en ExpressJS?](https://devcode.la/tutoriales/como-configurar-sesiones-en-expressjs/)
+  - [Cookies y Sessions VS JSON Web Tokens](https://programacionymas.com/blog/jwt-vs-cookies-y-sesiones)
+  - [Una introducción a OAuth 2](https://www.digitalocean.com/community/tutorials/una-introduccion-a-oauth-2-es)
+  - [Backend Developer - Mapa](https://roadmap.sh/backend)
+  - [Middlewares en Node.js](https://devcode.la/tutoriales/middlewares-en-nodejs/)
+  - [Autenticando un API Rest con NodeJS y JWT (JSON Web Tokens)](https://asfo.medium.com/autenticando-un-api-rest-con-nodejs-y-jwt-json-web-tokens-5f3674aba50e)
+  - [¿Qué demonios es un Callback?](http://developinginspanish.com/2019/03/18/javascript-que-demonios-es-un-callback/)
+
+  ### Base de datos
+  
+  - [¿Qué es NoSQL?](https://aws.amazon.com/es/nosql/)
+  - [NoSQL vs SQL; principales diferencias y cuándo elegir cada una de ellas](https://pandorafms.com/blog/es/nosql-vs-sql-diferencias-y-cuando-elegir-cada-una/)
+  - [¿Cómo saber si necesitas una Base de Datos NoSQL?](https://medium.com/@eugeniomendoza/c%C3%B3mo-saber-si-necesitas-una-base-de-datos-nosql-b6cfd5bb7d9b)
+  - [Cómo crear y usar una función almacenada MySQL](https://www.neoguias.com/funciones-almacenadas-mysql/)
+  - [Cómo crear y usar un procedimiento almacenado MySQL](https://www.neoguias.com/procedimientos-almacenados-mysql/)
+  - [Asignar permisos a usuarios MySQL](https://codigofacilito.com/articulos/asignar-permisos-mysql)
+  
+  ### Tal ves te interese...
+  
+  - [Amazon, Apple, Facebook, Google: How "The Four" Are Using APIs](https://commercetools.com/blog/2017/11/07/the-four-apis.html)
+  - [AWS vs Azure vs GCP: todos los servicios cloud frente a frente.](https://www.paradigmadigital.com/dev/comparativa-servicios-cloud-aws-azure-gcp/)
+  - [Donde almacenar mi sitio web](https://medium.com/tecnologia-digital/donde-almacenar-mi-sitio-web-f25a16ee4650)
+  
+  [👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  [👆 Regresar al inicio de los articulos 👆](#articulos)
