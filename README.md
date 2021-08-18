@@ -57,7 +57,6 @@ Espero te sea util, suerte ❤👌
  - [Skeleton](http://skeleton-css.surge.sh/)
  - [Animate](https://animate.style/)
 
-
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de css 👆](#css)
