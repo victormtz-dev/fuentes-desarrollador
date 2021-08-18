@@ -123,7 +123,7 @@ Espero te sea util, suerte ❤👌
  
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-   [👆 Regresar al inicio de git 👆](#imagenes-svg-icons)
+   [👆 Regresar al inicio de imagenes 👆](#imagenes-svg-icons)
   
   
 ## PLATAFORMAS DE CURSOS
