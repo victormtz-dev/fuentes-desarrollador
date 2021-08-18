@@ -30,6 +30,26 @@ Espero te sea util, suerte ❤👌
 
 ## JAVASCRIPT
 
+### Librerias
+
+ - [ScrollReveall](https://scrollrevealjs.org/)
+ - [Tingle.js - Modal](https://tingle.robinparisi.com/)
+ - [Bideo.js](https://www.javascripting.com/view/bideo-js)
+ - [Glide.js](https://glidejs.com/)
+ - [AOS](https://michalsnik.github.io/aos/)
+
+### Libro
+
+  - [Eloquent JavaScript](https://eloquentjavascript.net/00_intro.html)
+
+
+### Herramientas
+
+ - [SVGR](https://react-svgr.com/playground/)
+ - [Tabla de comparacion en JS](https://dorey.github.io/JavaScript-Equality-Table/)
+ - [JavaScript 30](https://javascript30.com/)
+ - [RunJS](https://runjs.app/)
+
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de javascript 👆](#javascript)
