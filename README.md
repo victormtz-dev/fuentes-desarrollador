@@ -16,15 +16,16 @@ Espero te sea util, suerte ❤👌
 10. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
 11. [**ARTICULOS**](#articulos)
 
-## HTML
+## HTML 🟠
 
 - [HTML Reference](https://htmlreference.io/)
 
     [👆 Regresar a tabla de contenido 👆](#Contenido)
   
     [👆 Regresar al inicio de html 👆](#html)
+    
   
-## CSS
+## CSS 🔵
 
 ### Guias / Documentacion
 
@@ -60,8 +61,9 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de css 👆](#css)
-
-## JAVASCRIPT
+   
+   
+## JAVASCRIPT 🟡
 
 ### Librerias
 
@@ -85,8 +87,9 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de javascript 👆](#javascript)
+   
   
-## GIT
+## GIT 🔴
 
 ### Curso
 
@@ -108,7 +111,7 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar al inicio de git 👆](#git)
   
   
-## IMAGENES, SVG, ICONOS
+## IMAGENES, SVG, ICONOS 📷
 
  - [Pixabay](https://pixabay.com/es/)
  - [Freepick](https://www.freepik.es/)
@@ -126,7 +129,7 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar al inicio de imagenes 👆](#imagenes-svg-icons)
   
   
-## PLATAFORMAS DE CURSOS
+## PLATAFORMAS DE CURSOS 💻
 
  - [Coderbyte](https://coderbyte.com/sl)
  - [IBM Academic Initiative](https://www.ibm.com/academic/home)
@@ -147,14 +150,16 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de las plataformas de cursos 👆](#plataformas-de-cursos)
+   
 
 ## HERRAMIENTAS
 
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de herramientas 👆](#herramientas)
+   
 
-## CANALES DE YOUTUBE
+## CANALES DE YOUTUBE 🎥
 
  - [Absolute](https://www.youtube.com/c/AbsoluteSite/videos) //tal vez 
  - [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/videos)
@@ -258,16 +263,21 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar al inicio de los canales 👆](#Canales-de-Youtube)
   
   
-  ## PLATAFORMAS PARA PRACTICAR PROGRAMACION
+  ## PLATAFORMAS PARA PRACTICAR PROGRAMACION 🌐
   
   - [omegaUp](https://omegaup.com/)
+  - [Frontend Mentor](https://www.frontendmentor.io/)
+  - [Excercism](https://exercism.io/)
+  - [Coding Games](https://www.codingame.com/start)
+  - [Project Euler](https://projecteuler.net/)
+  - [Codewars](https://www.codewars.com/users/sign_in)
    
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-   [👆 Regresar al inicio de los libros 👆](#plataformas-para-practicar-programacion)
+   [👆 Regresar al inicio de las plataformas 👆](#plataformas-para-practicar-programacion)
   
   
-  ## LIBROS Y PDF´S
+  ## LIBROS Y PDF´S 📚
   
   - [No me hagas pensar](http://producciondigitalup.com/articulos/no-me-hagas-pensar.pdf)
   - [Libros de programacion](https://drive.google.com/drive/u/0/folders/1a5_7wWszlllygsePKt577GZnUePpHN9c?fbclid=IwAR1WCM7WLj-UKVtMVSUuRf3Ns3_-6Cl2gPfEjzPqDHnngaFTOB4PlGKwiow)
@@ -280,7 +290,7 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar al inicio de los libros 👆](#libros-y-pdf´s)
   
   
-  ## ARTICULOS
+  ## ARTICULOS 📜
 
    ### FrontEnd
   
