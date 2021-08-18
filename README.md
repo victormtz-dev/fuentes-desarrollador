@@ -53,8 +53,8 @@ Espero te sea util, suerte ❤👌
 
 ### Librerias
 
- -[Skeleton](http://skeleton-css.surge.sh/)
- -[Animate](https://animate.style/)
+ - [Skeleton](http://skeleton-css.surge.sh/)
+ - [Animate](https://animate.style/)
 
 
    [👆 Regresar a tabla de contenido 👆](#Contenido)
