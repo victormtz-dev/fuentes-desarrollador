@@ -90,7 +90,7 @@ Espero te sea util, suerte ❤👌
 
 ### Curso
 
- -[Introducción a Git](https://https-bedu-org.gitbook.io/introduccion-a-git/)
+ - [Introducción a Git](https://https-bedu-org.gitbook.io/introduccion-a-git/)
  
 ### Herramientas de apoyo
  
