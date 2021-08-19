@@ -335,10 +335,9 @@ Espero te sea util, suerte ❤👌
    
    ## CURSOS QUE TE PUEDEN INTERESAR
    
-   - []()
-   - []()
-   - []()
-
+   - [Introducción a las Bases de Datos (Con MySQL)](https://todocodeacademy.com/course/introduccion-a-las-bases-de-datos-con-mysql/)
+   - [Curso de Excell](https://mega.nz/folder/IRtTVa7K#Sc-tPFWgy0AD4Xe-j54dog)
+   - [Rol de Python en la exploración espacial](https://docs.microsoft.com/es-es/learn/paths/introduction-python-space-exploration-nasa/)
 
 [👆 Regresar a tabla de contenido 👆](#Contenido)
 
