@@ -146,20 +146,40 @@ Espero te sea util, suerte ❤👌
 
 ## HERRAMIENTAS
 
+ - [Shields](https://img.shields.io)  //readme
+ - [Color Hex Color Codes](https://www.color-hex.com/) //css
+ - [Carbon](https://carbon.now.sh/) //comparte codigo
+ - [Linkode](http://linkode.org/) //comparte codigo
+ - [Google Fonts](https://fonts.google.com/) //css
+ - [PHP Fiddle](http://phpfiddle.org/) //editores en linea
+ - [PostImage - Almacenamiento gratuito de Imagenes](https://postimages.org/) //css
+ - [JavaScript Console](https://jsconsole.com/) //editores en linea
+ - [Checklist Design](https://www.checklist.design/) //css
+ - [30 seconds of code](https://www.30secondsofcode.org/)//back
+ - [cheatsheets](https://devhints.io/) back
+ - [Readme](https://readme.so/es) readme
+ - [Los apuntes de majo](https://losapuntesdemajo.vercel.app/)
+ - [Dev Resources](https://devresourc.es/) desarrollo
+ - [Patrones de diseño y Refactorización](https://refactoring.guru/es)
+ - [rss2json](https://rss2json.com/#rss_url=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvue%2Freleases.atom) bacc
+ - 
+
+
+
 [👆 Regresar a tabla de contenido 👆](#Contenido)
    
 
 ## CANALES DE YOUTUBE 
 
- - [Absolute](https://www.youtube.com/c/AbsoluteSite/videos) //tal vez 
+ - [Absolute](https://www.youtube.com/c/AbsoluteSite/videos)
  - [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/videos)
  - [AlexCG Design](https://www.youtube.com/c/AlexCGDesign/videos)
  - [Alvaro Chirou](https://www.youtube.com/user/racochi)
  - [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
  - [AnimatiCSS](https://www.youtube.com/channel/UC73Tk5wfEBh67Vm7gM_zaAw)
- - [Aprende e Ingenia](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos) //python - matlab
+ - [Aprende e Ingenia](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos) 
  - [BettaTech ](https://www.youtube.com/c/BettaTech/videos)
- - [Bitwise Ar](https://www.youtube.com/channel/UC4unPLtykzwO7MB3IvaQZaA) //arduino
+ - [Bitwise Ar](https://www.youtube.com/channel/UC4unPLtykzwO7MB3IvaQZaA) 
  - [Bluuweb !](https://www.youtube.com/user/Bluuweb)
  - [BloomIT Digital Academy](https://www.youtube.com/c/BloomITDigitalAcademy/videos)
  - [Carlos Alfaro](https://www.youtube.com/channel/UCRMJ0vxtnHh_UAq1Yx9BYWQ)
@@ -184,8 +204,8 @@ Espero te sea util, suerte ❤👌
  - [Develoteca](https://www.youtube.com/c/Develoteca/videos)
  - [Dorian Desings](https://www.youtube.com/channel/UCzuwt7Pi_VB8cP5q5UE4u-A)
  - [EDteam](https://www.youtube.com/user/escueladigitalperu)
- - [El Inge Francisco](https://www.youtube.com/user/fteranp) //excell
- - [El profe García](https://www.youtube.com/c/ElProfeGarcia/videos) //robotica
+ - [El Inge Francisco](https://www.youtube.com/user/fteranp) 
+ - [El profe García](https://www.youtube.com/c/ElProfeGarcia/videos) 
  - [FalconMasters](https://www.youtube.com/user/FalconMasters)
  - [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
  - [Fazt Code](https://www.youtube.com/channel/UCMn28O1sQGochG94HdlthbA)
