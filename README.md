@@ -302,6 +302,7 @@ Espero te sea util, suerte ❤👌
   - [¿Qué es un Front-end Developer?](https://medium.com/@ivandevp/92659a91434f?source=login-------------------------------------)
   - [¿QUÉ ES UNA MEDIA QUERY?](https://desafiohosting.com/que-es-una-media-query/)
   - [CSS Media Queries](https://css-tricks.com/css-media-queries/)
+  - [Consuming APIs Using JavaScript](https://medium.com/swlh/consuming-apis-using-javascript-c980abd36d59)
   
   ### BackEnd
   
