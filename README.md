@@ -3,27 +3,6 @@ Me he dado a la tarea de recolectar todas esas fuentes que nos serviran para el 
 Espero te sea util, suerte ❤👌
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
-  </a>
-</p>
-
-<p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
-
-<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-  </a>
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/trimstray" target="_blank">
     <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter">
   </a>
