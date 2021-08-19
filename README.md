@@ -19,12 +19,10 @@ Espero te sea util, suerte ❤👌
 
 ## HTML
 
-- [HTML Reference](https://htmlreference.io/)
+ - [HTML Reference](https://htmlreference.io/)
 
-    [👆 Regresar a tabla de contenido 👆](#Contenido)
+[👆 Regresar a tabla de contenido 👆](#Contenido)
   
-    [👆 Regresar al inicio de html 👆](#html)
-    
   
 ## CSS
 
@@ -58,9 +56,8 @@ Espero te sea util, suerte ❤👌
  - [Skeleton](http://skeleton-css.surge.sh/)
  - [Animate](https://animate.style/)
 
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de css 👆](#css)
+ [👆 Regresar a tabla de contenido 👆](#Contenido)
+
    
    
 ## JAVASCRIPT
@@ -84,11 +81,9 @@ Espero te sea util, suerte ❤👌
  - [JavaScript 30](https://javascript30.com/)
  - [RunJS](https://runjs.app/)
  
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de javascript 👆](#javascript)
-   
-  
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+ 
+ 
 ## GIT
 
 ### Curso
@@ -106,10 +101,8 @@ Espero te sea util, suerte ❤👌
 
  - [Book Git](https://git-scm.com/book/en/v2)
  
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de git 👆](#git)
-  
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+ 
   
 ## IMAGENES, SVG, ICONOS
 
@@ -124,9 +117,7 @@ Espero te sea util, suerte ❤👌
  - [Shape](https://shape.so/)
  - [Story Set](https://storyset.com/)
  
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de imagenes 👆](#imagenes-svg-icons)
+[👆 Regresar a tabla de contenido 👆](#Contenido)
   
   
 ## PLATAFORMAS DE CURSOS
@@ -147,16 +138,12 @@ Espero te sea util, suerte ❤👌
  - [Code](https://code.org/)
  - [Code Combat](https://codecombat.com/)
 
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
+[👆 Regresar a tabla de contenido 👆](#Contenido)
   
-   [👆 Regresar al inicio de las plataformas de cursos 👆](#plataformas-de-cursos)
-   
 
 ## HERRAMIENTAS
 
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de herramientas 👆](#herramientas)
+[👆 Regresar a tabla de contenido 👆](#Contenido)
    
 
 ## CANALES DE YOUTUBE 
@@ -258,12 +245,10 @@ Espero te sea util, suerte ❤👌
  - [Wmedia: desarrollo Web moderno y productivo](https://www.youtube.com/channel/UCF6G2sF4DKlWvgfEGcm50FQ)
  - [YouDevs](https://www.youtube.com/channel/UC4hHrYhWMy-iN29_3bJ7zfA)
 
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+
   
-   [👆 Regresar al inicio de los canales 👆](#Canales-de-Youtube)
-  
-  
-  ## PLATAFORMAS PARA PRACTICAR PROGRAMACION
+## PLATAFORMAS PARA PRACTICAR PROGRAMACION
   
   - [omegaUp](https://omegaup.com/)
   - [Frontend Mentor](https://www.frontendmentor.io/)
@@ -272,12 +257,10 @@ Espero te sea util, suerte ❤👌
   - [Project Euler](https://projecteuler.net/)
   - [Codewars](https://www.codewars.com/users/sign_in)
    
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de las plataformas 👆](#plataformas-para-practicar-programacion)
+ [👆 Regresar a tabla de contenido 👆](#Contenido)
   
   
-  ## LIBROS Y PDF´S
+## LIBROS Y PDF´S
   
   - [No me hagas pensar](http://producciondigitalup.com/articulos/no-me-hagas-pensar.pdf)
   - [Libros de programacion](https://drive.google.com/drive/u/0/folders/1a5_7wWszlllygsePKt577GZnUePpHN9c?fbclid=IwAR1WCM7WLj-UKVtMVSUuRf3Ns3_-6Cl2gPfEjzPqDHnngaFTOB4PlGKwiow)
@@ -286,12 +269,10 @@ Espero te sea util, suerte ❤👌
   - [+Libros de programación](https://drive.google.com/drive/folders/16DLTrhmIdgvzU_aQsp1skHJgcmQRifYL)
   - [Desarrollo Web](https://drive.google.com/drive/u/0/folders/1SlVCxDFkGmAZaUFsvtF14LNMMkhGbL27)
   
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de los libros 👆](#libros-y-pdf´s)
-  
-  
-  ## ARTICULOS
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+
+
+## ARTICULOS
   
    ### FrontEnd
   
@@ -328,12 +309,10 @@ Espero te sea util, suerte ❤👌
   - [AWS vs Azure vs GCP: todos los servicios cloud frente a frente.](https://www.paradigmadigital.com/dev/comparativa-servicios-cloud-aws-azure-gcp/)
   - [Donde almacenar mi sitio web](https://medium.com/tecnologia-digital/donde-almacenar-mi-sitio-web-f25a16ee4650)
   
-   [👆 Regresar a tabla de contenido 👆](#Contenido)
-  
-   [👆 Regresar al inicio de los articulos 👆](#articulos)
+[👆 Regresar a tabla de contenido 👆](#Contenido)
    
    
-   ## CURSOS QUE TE PUEDEN INTERESAR
+## CURSOS QUE TE PUEDEN INTERESAR
    
    - [Introducción a las Bases de Datos (Con MySQL)](https://todocodeacademy.com/course/introduccion-a-las-bases-de-datos-con-mysql/)
    - [Curso de Excell](https://mega.nz/folder/IRtTVa7K#Sc-tPFWgy0AD4Xe-j54dog)
@@ -341,4 +320,3 @@ Espero te sea util, suerte ❤👌
 
 [👆 Regresar a tabla de contenido 👆](#Contenido)
 
-[👆 Regresar al inicio de los cursos](#cursos-que-te-pueden-interesar)
