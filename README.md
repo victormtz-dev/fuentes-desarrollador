@@ -2,22 +2,6 @@
 Me he dado a la tarea de recolectar todas esas fuentes que nos serviran para el desarollo de alguna aplicacion y que hoy en dia es util.
 Espero te sea util, suerte ❤👌
 
-<p align="center">
-  <a href="https://twitter.com/trimstray" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter">
-  </a>
-</p>
-
-<div align="center">
-  <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
-</div>
-
-<br>
-
-****
-
 ## :notebook_with_decorative_cover: &nbsp;¿Qué es esto?
 
 
