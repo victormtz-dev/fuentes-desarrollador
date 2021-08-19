@@ -82,7 +82,7 @@ Espero te sea util, suerte ❤👌
  - [Tabla de comparacion en JS](https://dorey.github.io/JavaScript-Equality-Table/)
  - [JavaScript 30](https://javascript30.com/)
  - [RunJS](https://runjs.app/)
-
+ 
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de javascript 👆](#javascript)
