@@ -15,6 +15,7 @@ Espero te sea util, suerte ❤👌
 9. [**PLATAFORMAS PARA PRACTICAR PROGRAMACION**](#plataformas-para-practicar-programacion)
 10. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
 11. [**ARTICULOS**](#articulos)
+12. [**CURSOS QUE TE PUEDEN INTERESAR**](#cursos-que-te-puede-interesar)
 
 ## HTML
 
@@ -283,6 +284,7 @@ Espero te sea util, suerte ❤👌
   - [Desarrollo de API´S con NodeJS](https://onedrive.live.com/?authkey=%21ANN5sCPzvys1a2Q&cid=CD54330C3D58618D&id=CD54330C3D58618D%2111837&parId=CD54330C3D58618D%2111108&o=OneUp)
   - [Libros que debes leer](https://drive.google.com/drive/folders/1WNEZWqUtlVRNNw84cj8hE7eMhtXKXa_a)
   - [+Libros de programación](https://drive.google.com/drive/folders/16DLTrhmIdgvzU_aQsp1skHJgcmQRifYL)
+  - [Desarrollo Web](https://drive.google.com/drive/u/0/folders/1SlVCxDFkGmAZaUFsvtF14LNMMkhGbL27)
   
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -309,6 +311,7 @@ Espero te sea util, suerte ❤👌
   - [Middlewares en Node.js](https://devcode.la/tutoriales/middlewares-en-nodejs/)
   - [Autenticando un API Rest con NodeJS y JWT (JSON Web Tokens)](https://asfo.medium.com/autenticando-un-api-rest-con-nodejs-y-jwt-json-web-tokens-5f3674aba50e)
   - [¿Qué demonios es un Callback?](http://developinginspanish.com/2019/03/18/javascript-que-demonios-es-un-callback/)
+  - [Javascript Asíncrono: La guía definitiva](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono#nota-breve-sobre-paralelismo)
 
   ### Base de datos
   
@@ -328,3 +331,15 @@ Espero te sea util, suerte ❤👌
    [👆 Regresar a tabla de contenido 👆](#Contenido)
   
    [👆 Regresar al inicio de los articulos 👆](#articulos)
+   
+   
+   ## CURSOS QUE TE PUEDEN INTERESAR
+   
+   - []()
+   - []()
+   - []()
+
+
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+
+[👆 Regresar al inicio de los cursos](#cursos-que-te-pueden-interesar)
