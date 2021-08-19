@@ -16,9 +16,9 @@ Espero te sea util, suerte ❤👌
 7. [**HERRAMIENTAS**](#herramientas)
 8. [**CANALES DE YOUTUBE**](#canales-de-youtube)
 9. [**PLATAFORMAS PARA PRACTICAR PROGRAMACION**](#plataformas-para-practicar-programacion)
-10. [**LIBROS Y PDF´S**](#libros-y-pdf´s)
+10. [**LIBROS Y PDFS**](#libros-y-pdfs)
 11. [**ARTICULOS**](#articulos)
-12. [**CURSOS QUE TE PUEDEN INTERESAR**](#cursos-que-te-puede-interesar)
+12. [**CURSOS QUE TE PUEDEN INTERESAR**](#cursos-que-te-pueden-interesar)
 
 ## HTML
 
@@ -283,7 +283,7 @@ Espero te sea util, suerte ❤👌
  [👆 Regresar a tabla de contenido 👆](#Contenido)
   
   
-## LIBROS Y PDF´S
+## LIBROS Y PDFS
   
   - [No me hagas pensar](http://producciondigitalup.com/articulos/no-me-hagas-pensar.pdf)
   - [Libros de programacion](https://drive.google.com/drive/u/0/folders/1a5_7wWszlllygsePKt577GZnUePpHN9c?fbclid=IwAR1WCM7WLj-UKVtMVSUuRf3Ns3_-6Cl2gPfEjzPqDHnngaFTOB4PlGKwiow)
