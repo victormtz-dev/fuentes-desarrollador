@@ -53,11 +53,13 @@ Espero te sea util, suerte ❤👌
  - [extractCSS](http://extractcss.com/)
  - [Pixel Art To CSS](https://www.pixelartcss.com/)
  - [CSS Effects](https://awesomeindie.com/product/css-effects)
+ - [CSS clip-path MAKER](https://bennettfeely.com/clippy/)
 
 ### Librerias
 
  - [Skeleton](http://skeleton-css.surge.sh/)
  - [Animate](https://animate.style/)
+ - [EDgrid](https://ed-grid.com/)
 
  [👆 Regresar a tabla de contenido 👆](#Contenido)
 
