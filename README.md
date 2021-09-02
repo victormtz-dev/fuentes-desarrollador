@@ -23,6 +23,7 @@ Espero te sea util, suerte ❤👌
 ## HTML
 
  - [HTML Reference](https://htmlreference.io/)
+ - [Plantillas gratis HTML](https://plantillashtmlgratis.com/)
 
 [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -179,6 +180,7 @@ Espero te sea util, suerte ❤👌
  - [Alvaro Chirou](https://www.youtube.com/user/racochi)
  - [Antonio Sarosi](https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA)
  - [AnimatiCSS](https://www.youtube.com/channel/UC73Tk5wfEBh67Vm7gM_zaAw)
+ - [Appdelante](https://www.youtube.com/c/Appdelante)
  - [Aprende e Ingenia](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos) 
  - [BettaTech ](https://www.youtube.com/c/BettaTech/videos)
  - [Bitwise Ar](https://www.youtube.com/channel/UC4unPLtykzwO7MB3IvaQZaA) 
@@ -203,7 +205,9 @@ Espero te sea util, suerte ❤👌
  - [Daniel del futuro](https://www.youtube.com/c/danielromeroauk/videos)
  - [DesarrolloWeb.com](https://www.youtube.com/user/desarrollowebcom)
  - [David Guevara](https://www.youtube.com/c/DavidGuevara01/videos)
+ - [DATACLOUDER](https://www.youtube.com/c/DATACLOUDER)
  - [Develoteca](https://www.youtube.com/c/Develoteca/videos)
+ - [diegoveloper](https://www.youtube.com/c/diegoveloper)
  - [Dorian Desings](https://www.youtube.com/channel/UCzuwt7Pi_VB8cP5q5UE4u-A)
  - [EDteam](https://www.youtube.com/user/escueladigitalperu)
  - [El Inge Francisco](https://www.youtube.com/user/fteranp) 
@@ -227,6 +231,7 @@ Espero te sea util, suerte ❤👌
  - [La Cocina del Código](https://www.youtube.com/channel/UCY2ogSxB2beBNBRMKU_dXzA)
  - [Leonidas Esteban](https://www.youtube.com/user/LeonidasEsteban)
  - [LexterXPS](https://www.youtube.com/user/LexterXPS)
+ - [Lucas Moy](https://www.youtube.com/c/LucasMoy)
  - [MADRUGADOR2010](https://www.youtube.com/user/MADRUGADOR2010)
  - [makigas: tutoriales de programación](https://www.youtube.com/c/makigas/videos)
  - [MagtimusPro](https://www.youtube.com/channel/UCgY6raSf9MhsMjXwmG83-Bg)
@@ -241,6 +246,7 @@ Espero te sea util, suerte ❤👌
  - [Omar Cardoze](https://www.youtube.com/channel/UCEX3tv2piu0hlKWucCpotow)
  - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
  - [Over System](https://www.youtube.com/channel/UCBpbTxn2V8uiqY7zIkjTVzg)
+ - [Pelado Nerd](https://www.youtube.com/c/PeladoNerd)
  - [pixel design](https://www.youtube.com/channel/UCiSZ5UaNaoP_6yYfKKFs9jA)
  - [pildorasinformaticas](https://www.youtube.com/user/pildorasinformaticas)
  - [Platzi ](https://www.youtube.com/user/mejorandolaweb)
@@ -281,6 +287,7 @@ Espero te sea util, suerte ❤👌
   - [Coding Games](https://www.codingame.com/start)
   - [Project Euler](https://projecteuler.net/)
   - [Codewars](https://www.codewars.com/users/sign_in)
+  - [CodeSignal](https://app.codesignal.com/)
    
  [👆 Regresar a tabla de contenido 👆](#Contenido)
   
