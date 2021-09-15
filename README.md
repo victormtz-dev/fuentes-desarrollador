@@ -27,7 +27,7 @@ Espero te sea util, suerte ❤👌
 
 [👆 Regresar a tabla de contenido 👆](#Contenido)
   
-  
+ 
 ## CSS
 
 ### Guias / Documentacion
@@ -37,6 +37,7 @@ Espero te sea util, suerte ❤👌
  - [Modelo de caja](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
  - [Responsive design](https://web.dev/responsive-web-design-basics/)
  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/display-listitem)
+ - [CSS Portal](https://www.cssportal.com/)
 
 ### Reset
 
@@ -55,6 +56,17 @@ Espero te sea util, suerte ❤👌
  - [Pixel Art To CSS](https://www.pixelartcss.com/)
  - [CSS Effects](https://awesomeindie.com/product/css-effects)
  - [CSS clip-path MAKER](https://bennettfeely.com/clippy/)
+ - [Layoutit](https://layoutit.com/)
+ - [Waves - Ondas](https://getwaves.io/)
+ - [Border Radius](https://9elements.github.io/fancy-border-radius/)
+ - [Grid CSS](http://gridcss.com/)
+ - [Css Button Generator](https://css3buttongenerator.com/)
+ - [Flexbox Generator](https://loading.io/flexbox)
+ - [Formas 3D](http://tridiv.com/)
+ - [GlassMorphism](https://hype4.academy/tools/glassmorphism-generator)
+ - [Box Shadow CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+ - [Generator Box](https://html-css-js.com/css/generator/box-shadow/)
+
 
 ### Librerias
 
@@ -122,6 +134,7 @@ Espero te sea util, suerte ❤👌
  - [SVGPORN](https://svgporn.com/)
  - [Shape](https://shape.so/)
  - [Story Set](https://storyset.com/)
+ - [Vecteezy](https://es.vecteezy.com/)
  
 [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -143,6 +156,7 @@ Espero te sea util, suerte ❤👌
  - [Opporunity - Linkedin](https://opportunity.linkedin.com/es-es/skills-for-in-demand-jobs)
  - [Code](https://code.org/)
  - [Code Combat](https://codecombat.com/)
+ - [SQL EASY](https://www.sql-easy.com/)
 
 [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -165,7 +179,7 @@ Espero te sea util, suerte ❤👌
  - [Dev Resources](https://devresourc.es/) desarrollo
  - [Patrones de diseño y Refactorización](https://refactoring.guru/es)
  - [rss2json](https://rss2json.com/#rss_url=https%3A%2F%2Fgithub.com%2Fvuejs%2Fvue%2Freleases.atom) bacc
- - 
+ - [Coolors](https://coolors.co/)
 
 
 
@@ -243,6 +257,7 @@ Espero te sea util, suerte ❤👌
  - [Mundo Binario](https://www.youtube.com/channel/UCRovtoIIGfj4tHj3Dv1uwHw)
  - [Mundo Python](https://www.youtube.com/channel/UCNdy_LQjD_ew3r5zEXOA0aQ)
  - [Muy Fácil De Hacer](https://www.youtube.com/user/TheCesartutoriales)
+ - [Nogara DevCode](https://www.youtube.com/c/NogaraDevCode)
  - [Omar Cardoze](https://www.youtube.com/channel/UCEX3tv2piu0hlKWucCpotow)
  - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
  - [Over System](https://www.youtube.com/channel/UCBpbTxn2V8uiqY7zIkjTVzg)
