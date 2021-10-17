@@ -11,19 +11,28 @@ Espero te sea util, suerte ❤👌
 2. [**CSS**](#css)
 3. [**JAVASCRIPT**](#javascript)
 4. [**GIT**](#git)
-5. [**IMAGENES SVG ICONOS**](#imagenes-svg-iconos)
-6. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
-7. [**HERRAMIENTAS**](#herramientas)
-8. [**CANALES DE YOUTUBE**](#canales-de-youtube)
-9. [**PLATAFORMAS PARA PRACTICAR PROGRAMACION**](#plataformas-para-practicar-programacion)
-10. [**LIBROS Y PDFS**](#libros-y-pdfs)
-11. [**ARTICULOS**](#articulos)
-12. [**CURSOS QUE TE PUEDEN INTERESAR**](#cursos-que-te-pueden-interesar)
+5. [**IMAGENES**](#imagenes)
+6. [**ICONOS**](#iconos)
+7. [**SVG**](#svg)
+8. [**COLORES**](#colores)
+9. [**MOCKUPS**](#mockups)
+10. [**PLATAFORMAS DE CURSOS**](#plataformas-de-cursos)
+11. [**HERRAMIENTAS**](#herramientas)
+12. [**CANALES DE YOUTUBE**](#canales-de-youtube)
+13. [**PLATAFORMAS PARA PRACTICAR PROGRAMACION**](#plataformas-para-practicar-programacion)
+14. [**LIBROS Y PDFS**](#libros-y-pdfs)
+15. [**ARTICULOS**](#articulos)
+16. [**CURSOS QUE TE PUEDEN INTERESAR**](#cursos-que-te-pueden-interesar)
 
 ## HTML
 
+### Referencias y documentacion
  - [HTML Reference](https://htmlreference.io/)
+
+### Utilidades HTML
  - [Plantillas gratis HTML](https://plantillashtmlgratis.com/)
+ - [Markup Validation Service](https://validator.w3.org/)
+
 
 [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -44,7 +53,7 @@ Espero te sea util, suerte ❤👌
  - [Normalize](https://necolas.github.io/normalize.css/)
  - [CSS Tools](https://meyerweb.com/eric/tools/css/reset/)
 
-### Herramientas de apoyo
+### Generadores CSS
 
  - [Flexbox Froggy](https://flexboxfroggy.com/#es)
  - [WebGradients](https://webgradients.com/)
@@ -66,6 +75,13 @@ Espero te sea util, suerte ❤👌
  - [GlassMorphism](https://hype4.academy/tools/glassmorphism-generator)
  - [Box Shadow CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html)
  - [Generator Box](https://html-css-js.com/css/generator/box-shadow/)
+
+### CSS Utilidades
+ - [Sass Meister](https://www.sassmeister.com/)
+ - [Autoprefixer CSS online](http://autoprefixer.github.io/)
+ - [Validacion CSS](https://jigsaw.w3.org/css-validator/)
+ - [LESS to CSS Converter](https://jsonformatter.org/less-to-css)
+ - [LESS to CSS Online](https://webtoolkitonline.com/less-to-css.html)
 
 
 ### Librerias
@@ -92,7 +108,7 @@ Espero te sea util, suerte ❤👌
 
   - [Eloquent JavaScript](https://eloquentjavascript.net/00_intro.html)
 
-### Herramientas de apoyo
+### Utilidades JS
 
  - [SVGR](https://react-svgr.com/playground/)
  - [Tabla de comparacion en JS](https://dorey.github.io/JavaScript-Equality-Table/)
@@ -120,21 +136,70 @@ Espero te sea util, suerte ❤👌
  - [Book Git](https://git-scm.com/book/en/v2)
  
 [👆 Regresar a tabla de contenido 👆](#Contenido)
- 
-  
-## IMAGENES, SVG, ICONOS
 
- - [Pixabay](https://pixabay.com/es/)
- - [Freepick](https://www.freepik.es/)
+
+## IMAGENES
+
+- [Pixabay](https://pixabay.com/es/)
+- [Freepick](https://www.freepik.es/)
+- [Pexels](https://www.pexels.com/es-es/)
+- [Picsum](https://picsum.photos/)
+- [Vecteezy](https://es.vecteezy.com/)
+- [Unplash](https://unsplash.com/)
+- [Videvo](https://www.videvo.net/)
+- [BURST](https://burst.shopify.com/)
+- [FreeImages](https://www.freeimages.com/es)
+- [Kaboompics](https://kaboompics.com/)
+- [Canva Photos](https://www.canva.com/photos/free/)
+- [Placeholder.com](https://placeholder.com/)
+
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+
+
+## ICONOS
+
+- [Iconos8](https://iconos8.es/)
+- [Font Awesome](https://fontawesome.com/)
+- [Shape](https://shape.so/)
+- [Feather](https://feathericons.com/)
+- [Icons Bootstrap](https://icons.getbootstrap.com/)
+- [Ionicons](https://ionic.io/ionicons)
+- [CSS Icons](https://css.gg/)
+- [Tabler Icons](https://tabler-icons.io/)
+- [Google Fonts Icons](https://fonts.google.com/icons)
+
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+  
+  
+## SVG
+
  - [unDraw](https://undraw.co/illustrations)
- - [Pexels](https://www.pexels.com/es-es/)
- - [Iconos8](https://iconos8.es/)
- - [Picsum](https://picsum.photos/)
- - [Font Awesome](https://fontawesome.com/)
  - [SVGPORN](https://svgporn.com/)
- - [Shape](https://shape.so/)
  - [Story Set](https://storyset.com/)
- - [Vecteezy](https://es.vecteezy.com/)
+ 
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+
+
+## COLORES
+
+ - [Flat UI Colors](https://flatuicolors.com/)
+ - [ColorHex](https://www.color-hex.com/)
+ - [Colordot](https://color.hailpixel.com/)
+ - [UIGradients](https://uigradients.com/#DeepPurple)
+ - [Color Hunt](https://colorhunt.co/)
+ - [Stylify Me](http://stylifyme.com/)
+ - [Canva Colors](https://www.canva.com/colors/)
+ 
+[👆 Regresar a tabla de contenido 👆](#Contenido)
+
+
+## MOCKUPS
+
+ - [Flowchart Marker](https://app.diagrams.net/)
+ - [WireFrame](https://wireframe.cc/)
+ - [Moqups](https://moqups.com/es/)
+ - [MockUPhone](https://mockuphone.com/)
+ - [APPMockUP](https://app-mockup.com/)
  
 [👆 Regresar a tabla de contenido 👆](#Contenido)
   
@@ -164,7 +229,6 @@ Espero te sea util, suerte ❤👌
 ## HERRAMIENTAS
 
  - [Shields](https://img.shields.io)  //readme
- - [Color Hex Color Codes](https://www.color-hex.com/) //css
  - [Carbon](https://carbon.now.sh/) //comparte codigo
  - [Linkode](http://linkode.org/) //comparte codigo
  - [Google Fonts](https://fonts.google.com/) //css
